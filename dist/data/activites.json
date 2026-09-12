@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "uid": "U2408012",
+    "title": "AI Workshop",
+    "category": "Technical",
+    "date": "2026-08-12",
+    "description": "Participated in an artificial intelligence workshop.",
+    "claimed": 10,
+    "approved": 10,
+    "status": "Approved"
+  },
+  {
+    "id": 2,
+    "uid": "U2408012",
+    "title": "Inter College Football",
+    "category": "Sports",
+    "date": "2026-07-25",
+    "description": "Participated in inter college football competition.",
+    "claimed": 15,
+    "approved": 15,
+    "status": "Approved"
+  },
+  {
+    "id": 3,
+    "uid": "U2408012",
+    "title": "Blood Donation Camp",
+    "category": "Social Service",
+    "date": "2026-06-10",
+    "description": "Participated in college blood donation campaign.",
+    "claimed": 10,
+    "approved": 10,
+    "status": "Approved"
+  },
+  {
+    "id": 4,
+    "uid": "U2408012",
+    "title": "Web Development Seminar",
+    "category": "Professional",
+    "date": "2026-05-18",
+    "description": "Attended a professional web development seminar.",
+    "claimed": 8,
+    "approved": 6,
+    "status": "Partially Approved"
+  }
+]
